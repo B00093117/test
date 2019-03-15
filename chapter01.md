@@ -2,8 +2,9 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec leo enim, venenatis id varius eu, pellentesque at elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque maximus, est at auctor semper, felis est euismod metus, et ornare ipsum metus vel justo. Mauris elementum posuere vestibulum. Aliquam est nibh, vestibulum id accumsan ac, vestibulum eu nunc. Suspendisse ullamcorper laoreet purus id varius. Aenean porta finibus ante vel faucibus. Duis eget sem in magna suscipit posuere.
 
-[Home](https://noobgab.github.io/test/index.md)
-[Chapter 1](https://noobgab.github.io/test/chapter01.md)
+[Home](https://noobgab.github.io/test/index)
+
+[Chapter 1](https://noobgab.github.io/test/chapter01)
 
 ### Paragraph 2
 
